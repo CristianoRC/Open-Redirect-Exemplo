@@ -13,6 +13,6 @@ function RedirectToPageAfterLogin() {
 
 function getUrlById(id) {
     if (id === "home")
-        return "/Sem-Falha/home.html"
+        return "/Open-Redirect-Exemplo/Sem-Falha/home.html"
     return "";
 }
