@@ -9,7 +9,12 @@ Urls usadas nos exemplos:
 
 [Site sem falha tentativa de burlar](https://www.cristianoprogramador.com/Open-Redirect-Exemplo/Sem-Falha/?redirectTo=https://www.cristianoprogramador.com/Open-Redirect-Exemplo/Site-Phishing)
 
+
+**Vídeo sobre o assuto:**
+[![Watch the video](https://img.youtube.com/vi/WFU_n8hl-8g/maxresdefault.jpg)](https://www.youtube.com/watch?v=WFU_n8hl-8g)
+
 ----
+
 **Template da tela de login retirado do site: [codepen.io/Lewitje/pen/BNNJjo](https://codepen.io/Lewitje/pen/BNNJjo)** 
 
 
